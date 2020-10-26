@@ -1,0 +1,28 @@
+/*
+Das ist mein Kommentar.Selektoren im Kommentar werden nicht ausgeführt.body {
+    background-color: black;
+}
+*/body {
+    max-width: 400px;
+    margin: auto;
+    border: grey 1px solid;
+}p {
+    font-family: "Andale Mono";
+    color: black;
+}#headingVomAutor {
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+    border: 2px purple dashed;
+}article {
+    color: red;
+}#ersterArtikel {
+    border: black 1px solid;
+}.greenAnswer {
+    color: green;
+}.kursivUndFett {
+    font-weight: bold;
+    font-style: italic;
+}img:hover {
+    border: red 5px solid;
+}
